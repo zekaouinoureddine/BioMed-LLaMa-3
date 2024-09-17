@@ -30,7 +30,7 @@
 <p align="center">
   <!-- <img src="./assets/docs/showcase2.gif" alt="showcase"> -->
   <br>
-  🔥 For more a demo, visit our <a href="https://huggingface.co/spaces/NouRed/BioMed-LLaMa-3"><strong>HF Spaces</strong></a> 🔥
+  🔥 For a demo, visit our <a href="https://huggingface.co/spaces/NouRed/BioMed-LLaMa-3"><strong>HF Spaces</strong></a> 🔥
 </p>
 
 
@@ -39,7 +39,6 @@
 ```
 git clone https://github.com/zekaouinoureddine/BioMed-LLaMa-3.git
 ```
-
 ## Dataset
 <center>
     <div style="width: 80%; text-align: center;">
@@ -60,19 +59,9 @@ git clone https://github.com/zekaouinoureddine/BioMed-LLaMa-3.git
 *Table 1: Results of BioMed-LLaMA-3 and Meta's LLaMA-3 on MedAlpaca and ChatDoctor Medical QA Datasets.*
 
 
-<div style="display: flex; justify-content: space-between;">
-
-<div style="width: 49%; text-align: center;">
-    <img src="assets/medalpaca.png" alt="BioMed-LLaMA-3 vs. LLaMA-3 results on Med Alpaca Dataset" style="width: 99%;">
-    <p><strong>Figure 1:</strong> BioMed-LLaMA-3 vs. LLaMA-3 results on Med Alpaca Dataset.</p>
-</div>
-
-<div style="width: 49%; text-align: center;">
-    <img src="assets/chatdoctor.png" alt="BioMed-LLaMA-3 vs. LLaMA-3 results on ChatDoctor Dataset" style="width: 99%;">
-    <p><strong>Figure 2:</strong> BioMed-LLaMA-3 vs. LLaMA-3 results on ChatDoctor Dataset.</p>
-</div>
-
-</div>
+| ![BioMed-LLaMA-3 vs. LLaMA-3 results on Med Alpaca Dataset](assets/medalpaca.png) | ![BioMed-LLaMA-3 vs. LLaMA-3 results on ChatDoctor Dataset](assets/chatdoctor.png) |
+|:--:|:--:|
+| **Figure 1:** BioMed-LLaMA-3 vs. LLaMA-3 results on Med Alpaca Dataset. | **Figure 2:** BioMed-LLaMA-3 vs. LLaMA-3 results on ChatDoctor Dataset. |
 
 
 ## License
