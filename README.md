@@ -69,7 +69,7 @@ git clone https://github.com/zekaouinoureddine/BioMed-LLaMa-3.git
 ## Citation
 If you find BioMed-LLaMa-3 useful for your research, welcome to 🌟 this repo and cite our work using the following BibTeX:
 ```bibtex
-@inproceedings{guo2024liveportrait,
+@inproceedings{BioMed-LLaMa-3,
   title   = {BioMed-LLaMa-3: Instruction-Efficient Fine-Tuning of Large Language Models for Improved Biomedical Language Understanding},
   author  = {Nour Eddine, Zekaoui and Mounia, Mikram and Maryem, Rhanoui and Siham, Yousfi},
   journal = {},
