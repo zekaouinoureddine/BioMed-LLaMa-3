@@ -69,11 +69,21 @@ git clone https://github.com/zekaouinoureddine/BioMed-LLaMa-3.git
 ## Citation
 If you find BioMed-LLaMa-3 useful for your research, welcome to 🌟 this repo and cite our work using the following BibTeX:
 ```bibtex
-@inproceedings{BioMed-LLaMa-3,
-  title   = {BioMed-LLaMa-3: Instruction-Efficient Fine-Tuning of Large Language Models for Improved Biomedical Language Understanding},
-  author  = {Nour Eddine, Zekaoui and Mounia, Mikram and Maryem, Rhanoui and Siham, Yousfi},
-  journal = {},
-  year    = {}
+@InProceedings{10.1007/978-981-96-0695-5_32,
+    author="Zekaoui, Nour Eddine
+    and Mikram, Mounia
+    and Rhanoui, Maryem
+    and Yousfi, Siham",
+    editor="Sombattheera, Chattrakul
+    and Weng, Paul
+    and Pang, Jun",
+    title="BioMed-LLaMa-3: Instruction-Efficient Fine-Tuning of Large Language Models for Improved Biomedical Language Understanding",
+    booktitle="Multi-disciplinary Trends in Artificial Intelligence",
+    year="2025",
+    publisher="Springer Nature Singapore",
+    address="Singapore",
+    pages="399--410",
+    isbn="978-981-96-0695-5"
 }
 ```
 
